@@ -7,6 +7,7 @@ space followed by any arguments. Commands can not be nested and are case
 sensitive.
 
 The available commands are described bellow:
+=======
 
 ?hello        Displays a welcome message addressed to the calling user
 
@@ -31,4 +32,3 @@ The available commands are described bellow:
 
 ?plus_leaders   Displays the current leaders with the 10 greatest amount of
                 pluses in order of the number of pluses each leader has.
-========
