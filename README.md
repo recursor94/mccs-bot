@@ -32,3 +32,6 @@ The available commands are described bellow:
 
 ?plus_leaders   Displays the current leaders with the 10 greatest amount of
                 pluses in order of the number of pluses each leader has.
+
+?spoonerize [args]  swaps corresponding vowels and consonants between
+                    words.
